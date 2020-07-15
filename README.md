@@ -8,7 +8,8 @@ Subscribe to my Blog for updates on new tutorial releases<br>
 https://akoutmos.com/
 
 <table><tr><td valign="top">
-  <h3>Open Source Projects</h3>
+  
+**Open Source Projects**
 
 * [Doctor](https://github.com/akoutmos/doctor) - Make sure your documentation is healthy with Doctor<br>
   [![Hex.pm](https://img.shields.io/hexpm/v/doctor.svg)](https://hex.pm/packages/doctor)
@@ -28,7 +29,7 @@ https://akoutmos.com/
   
 </td><td valign="top">
 
-### Recent Blog Posts
+**Recent Blog Posts**
 
 * [OTP as the Core of Your Application Part 1](https://akoutmos.com/post/actor-model-genserver-app/)
 * [The Repository Pattern, Ecto, and Database-less Testing](https://akoutmos.com/post/ecto-repo-testing/)
