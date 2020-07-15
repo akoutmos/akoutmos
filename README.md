@@ -8,8 +8,7 @@ Subscribe to my Blog for updates on new tutorial releases<br>
 https://akoutmos.com/
 
 <table><tr><td valign="top">
-  
-### Open Source Projects
+  <h3>Open Source Projects</h3>
 
 * [Doctor](https://github.com/akoutmos/doctor) - Make sure your documentation is healthy with Doctor<br>
   [![Hex.pm](https://img.shields.io/hexpm/v/doctor.svg)](https://hex.pm/packages/doctor)
