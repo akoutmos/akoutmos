@@ -20,6 +20,9 @@ https://akoutmos.com/
 * [Unplug](https://github.com/akoutmos/unplug) - Conditionally execute your Elixir Plugs at run-time<br>
   [![Hex.pm](https://img.shields.io/hexpm/v/unplug.svg)](https://hex.pm/packages/unplug)
   [![Travis CI](https://travis-ci.org/akoutmos/unplug.svg?branch=master)](https://travis-ci.org/akoutmos/unplug)
+* [Replug](https://github.com/akoutmos/replug) - Configure your Elixir Plugs at run-time<br>
+  [![Hex.pm](https://img.shields.io/hexpm/v/replug.svg)](https://hex.pm/packages/replug)
+  [![Travis CI](https://travis-ci.org/akoutmos/replug.svg?branch=master)](https://travis-ci.org/akoutmos/replug)
 * [Server Timing Plug](https://github.com/akoutmos/server_timing_plug) - A Plug that will generate Server-Timing response headers<br>
   [![Hex.pm](https://img.shields.io/hexpm/v/server_timing_plug.svg)](https://hex.pm/packages/server_timing_plug)
   [![Travis CI](https://travis-ci.org/akoutmos/server_timing_plug.svg?branch=master)](https://travis-ci.org/akoutmos/server_timing_plug)
@@ -31,6 +34,9 @@ https://akoutmos.com/
 
 **Recent Blog Posts**
 
+* [Dynamically Configure Your Plugs at Run-time](https://akoutmos.com/post/plug-runtime-config/)
+* [The State of Elixir HTTP Clients](https://akoutmos.com/post/elixir-http-clients/)
+* [OTP as the Core of Your Application Part 2](https://akoutmos.com/post/actor-model-genserver-app-two/)
 * [OTP as the Core of Your Application Part 1](https://akoutmos.com/post/actor-model-genserver-app/)
 * [The Repository Pattern, Ecto, and Database-less Testing](https://akoutmos.com/post/ecto-repo-testing/)
 * [Using Mnesia in your Elixir application](https://akoutmos.com/post/using-mnesia/)
