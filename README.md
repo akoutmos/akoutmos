@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 Follow me on Twitter for the latest Elixir quick tips and Blog posts<br>
 [![Twitter Follow](https://img.shields.io/twitter/follow/akoutmos.svg?style=social)](https://twitter.com/akoutmos)
