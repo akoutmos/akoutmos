@@ -10,12 +10,15 @@ https://akoutmos.com/
 
 **Open Source Projects**
 
-- [Doctor](https://github.com/akoutmos/doctor) - Make sure your documentation is healthy with Doctor<br>
-  [![Hex.pm](https://img.shields.io/hexpm/v/doctor.svg)](https://hex.pm/packages/doctor)
-  [![Travis CI](https://travis-ci.org/akoutmos/doctor.svg?branch=master)](https://travis-ci.org/akoutmos/doctor)
 - [PromEx](https://github.com/akoutmos/prom_ex) - A plugin based Prometheus metrics collector<br>
   [![Hex.pm](https://img.shields.io/hexpm/v/prom_ex.svg)](https://hex.pm/packages/prom_ex)
   [![Build Status](https://github.com/akoutmos/prom_ex/workflows/PromEx%20CI/badge.svg)](https://github.com/akoutmos/prom_ex/actions)
+- [Litestream](https://github.com/akoutmos/litestram) - An Elixir wrapper for Litestream to backup SQLite DBs to S3<br>
+  [![Hex.pm](https://img.shields.io/hexpm/v/litestream.svg)](https://hex.pm/packages/litestream)
+  [![Build Status](https://github.com/akoutmos/litestream/workflows/Litestream%20CI/badge.svg)](https://github.com/akoutmos/litestream/actions)
+- [Doctor](https://github.com/akoutmos/doctor) - Make sure your documentation is healthy with Doctor<br>
+  [![Hex.pm](https://img.shields.io/hexpm/v/doctor.svg)](https://hex.pm/packages/doctor)
+  [![Travis CI](https://travis-ci.org/akoutmos/doctor.svg?branch=master)](https://travis-ci.org/akoutmos/doctor)
 - [Pharams](https://github.com/akoutmos/pharams) - Parameter validation for Elixir's Phoenix Framework<br>
   [![Hex.pm](https://img.shields.io/hexpm/v/pharams.svg)](https://hex.pm/packages/pharams)
   [![Travis CI](https://travis-ci.org/akoutmos/pharams.svg?branch=master)](https://travis-ci.org/akoutmos/pharams)
