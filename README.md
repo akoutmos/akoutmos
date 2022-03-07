@@ -21,7 +21,6 @@ https://akoutmos.com/
   [![Doctor CI](https://img.shields.io/github/workflow/status/akoutmos/doctor/Doctor%20CI/master?label=Build%20Status)](https://github.com/akoutmos/doctor/actions)
 - [Pharams](https://github.com/akoutmos/pharams) - Parameter validation for Elixir's Phoenix Framework<br>
   [![Hex.pm](https://img.shields.io/hexpm/v/pharams.svg)](https://hex.pm/packages/pharams)
-  [![Travis CI](https://travis-ci.org/akoutmos/pharams.svg?branch=master)](https://travis-ci.org/akoutmos/pharams)
 - [Unplug](https://github.com/akoutmos/unplug) - Conditionally execute your Elixir Plugs at run-time<br>
   [![Hex.pm](https://img.shields.io/hexpm/v/unplug.svg)](https://hex.pm/packages/unplug)
   [![Travis CI](https://travis-ci.org/akoutmos/unplug.svg?branch=master)](https://travis-ci.org/akoutmos/unplug)
