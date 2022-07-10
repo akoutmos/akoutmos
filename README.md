@@ -13,6 +13,9 @@ https://akoutmos.com/
 - [PromEx](https://github.com/akoutmos/prom_ex) - A plugin based Prometheus metrics collector<br>
   [![Hex.pm](https://img.shields.io/hexpm/v/prom_ex.svg)](https://hex.pm/packages/prom_ex)
   [![Build Status](https://github.com/akoutmos/prom_ex/workflows/PromEx%20CI/badge.svg)](https://github.com/akoutmos/prom_ex/actions)
+- [MjmlEEx](https://github.com/akoutmos/mjml_eex) - Write beautiful Emails in Elixir using MJML<br>
+  [![Hex.pm](https://img.shields.io/hexpm/v/mjml_eex.svg)](https://hex.pm/packages/mjml_eex)
+  [![Build Status](https://github.com/akoutmos/mjml_eex/workflows/MJML%20EEx%20CI/badge.svg)](https://github.com/akoutmos/mjml_eex/actions)
 - [Litestream](https://github.com/akoutmos/litestream) - An Elixir wrapper for Litestream to backup SQLite DBs to S3<br>
   [![Hex.pm](https://img.shields.io/hexpm/v/litestream.svg)](https://hex.pm/packages/litestream)
   [![Build Status](https://github.com/akoutmos/litestream/workflows/Litestream%20CI/badge.svg)](https://github.com/akoutmos/litestream/actions)
