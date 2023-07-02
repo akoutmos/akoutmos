@@ -21,7 +21,7 @@ https://akoutmos.com/
   [![Build Status](https://github.com/akoutmos/litestream/workflows/Litestream%20CI/badge.svg)](https://github.com/akoutmos/litestream/actions)
 - [Doctor](https://github.com/akoutmos/doctor) - Make sure your documentation is healthy with Doctor<br>
   [![Hex.pm](https://img.shields.io/hexpm/v/doctor.svg)](https://hex.pm/packages/doctor)
-  [![Doctor CI](https://img.shields.io/github/workflow/status/akoutmos/doctor/Doctor%20CI/master?label=Build%20Status)](https://github.com/akoutmos/doctor/actions)
+  [![Doctor CI](https://img.shields.io/github/actions/workflow/status/akoutmos/doctor/master.yml?label=Build%20Status&branch=master)](https://github.com/akoutmos/doctor/actions)
 - [Pharams](https://github.com/akoutmos/pharams) - Parameter validation for Elixir's Phoenix Framework<br>
   [![Hex.pm](https://img.shields.io/hexpm/v/pharams.svg)](https://hex.pm/packages/pharams)
 - [Unplug](https://github.com/akoutmos/unplug) - Conditionally execute your Elixir Plugs at run-time<br>
