@@ -1,14 +1,19 @@
-# Hello there 👋
+# 👋 Howdy 👋
 
-Follow me on Twitter for the latest Elixir quick tips and Blog posts<br>
+Hello and thanks for stopping by 😁. My name is Alex Koutmos and I love programming and building businesses! Make sure you stick around and keep an eye out for my open source libraries, blog posts, and books if you want to take your Elixir game to the next level 😉.
+
+Follow me on Twitter for announcements and code tips.<br>
 [![Twitter Follow](https://img.shields.io/twitter/follow/akoutmos?style=for-the-badge&logo=twitter&color=555555)](https://twitter.com/akoutmos)
 
-Subscribe to my Blog for updates on new tutorial releases<br>
+Enjoy using my open source libraries and reading my blog posts? Make sure you sponsor me on GitHub to ensure the projects keep coming!<br>
+[![Twitter Follow](https://img.shields.io/badge/Support%20the%20project-%E2%9D%A4-lightblue?style=for-the-badge)]([https://twitter.com/akoutmos](https://github.com/sponsors/akoutmos))
+
+Subscribe to my Blog for updates on new tutorial releases.<br>
 https://akoutmos.com/
 
 ### Open Source Projects ⚗️
 
-<table><tr><td valign="top">
+<table id="oss-table"><tr><td valign="top">
 
 - [PromEx](https://github.com/akoutmos/prom_ex) - A plugin based Prometheus metrics collector<br>
   [![Hex.pm](https://img.shields.io/hexpm/v/prom_ex.svg?style=for-the-badge)](https://hex.pm/packages/prom_ex)
@@ -43,27 +48,27 @@ https://akoutmos.com/
 
 </td></tr></table>
 
-### Books 📓
+### Books 📖
 
 | Elixir Patterns | Build a Weather Station with Elixir and Nerves |
 |     :---:    |     :---:      |
 | <a href="https://elixirpatterns.dev/"><img width="400px" src="https://akoutmos.com/img/book_covers/elixir_patterns.png"></a> | <a href="https://pragprog.com/titles/passweather/build-a-weather-station-with-elixir-and-nerves/"><img width="400px" src="https://akoutmos.com/img/book_covers/nerves_weather_station.jpeg"></a> |
 
-### Recent Blog Posts 📖📓
+### Recent Blog Posts 📓
 
-- [Writing Shell Scripts Using Elixir](https://akoutmos.com/post/elixir-shell-scripts/)
-- [The Human Side of Elixir](https://akoutmos.com/post/betting-on-elixir/)
-- [Crafting Beautiful Emails in Elixir Using MJML](https://akoutmos.com/post/mjml-template-compliation/)
-- [Dynamically Configure Your Plugs at Run-time](https://akoutmos.com/post/plug-runtime-config/)
-- [The State of Elixir HTTP Clients](https://akoutmos.com/post/elixir-http-clients/)
-- [OTP as the Core of Your Application Part 2](https://akoutmos.com/post/actor-model-genserver-app-two/)
-- [OTP as the Core of Your Application Part 1](https://akoutmos.com/post/actor-model-genserver-app/)
-- [The Repository Pattern, Ecto, and Database-less Testing](https://akoutmos.com/post/ecto-repo-testing/)
-- [Using Mnesia in your Elixir application](https://akoutmos.com/post/using-mnesia/)
-- [Getting started with Phoenix LiveDashboard](https://akoutmos.com/post/phoenix_live_dashboard/)
-- [How to Use gRPC in Elixir](https://akoutmos.com/post/elixir-grpc/)
-- [Structured logging in Elixir using Loki](https://akoutmos.com/post/elixir-logging-loki/)
-- [Getting your Elixir application ready for CI/CD](https://akoutmos.com/post/elixir-cicd/)
-- [Easy and Robust Rate Limiting in Elixir](https://akoutmos.com/post/rate-limiting-with-genservers/)
+- [Writing Shell Scripts Using Elixir](https://akoutmos.com/post/elixir-shell-scripts/) - Learn how to write a self-contained command line scripts using Elixir
+- [The Human Side of Elixir](https://akoutmos.com/post/betting-on-elixir/) - In this blog post, we take a look at the Elixir programming language from the engineer/business perspective
+- [Crafting Beautiful Emails in Elixir Using MJML](https://akoutmos.com/post/mjml-template-compliation/) - Compile MJML->HTML->EEx using a Rust NIF and send your Phx.Gen.Auth notifications via Swoosh
+- [Dynamically Configure Your Plugs at Run-time](https://akoutmos.com/post/plug-runtime-config/) - Learn how and when to dynamically configure your Plugs using Unplug and Replug
+- [The State of Elixir HTTP Clients](https://akoutmos.com/post/elixir-http-clients/) - Learn about the new Elixir HTTP client Finch and how to use it
+- [OTP as the Core of Your Application Part 2](https://akoutmos.com/post/actor-model-genserver-app-two/) - Take a deep dive into the Actor Model and learn how GenServers can be leveraged in unison with your Database
+- [OTP as the Core of Your Application Part 1](https://akoutmos.com/post/actor-model-genserver-app/) - Take a deep dive into the Actor Model and learn how GenServers can be leveraged in unison with your Database
+- [The Repository Pattern, Ecto, and Database-less Testing](https://akoutmos.com/post/ecto-repo-testing/) - Learn how to test your Elixir+Ecto applications without using a database
+- [Using Mnesia in your Elixir application](https://akoutmos.com/post/using-mnesia/) - Learn when and how to use OTP's built in database Mnesia from your Elixir app
+- [Getting started with Phoenix LiveDashboard](https://akoutmos.com/post/phoenix_live_dashboard/) - Learn how to monitor your application using Phoenix LiveDashboard
+- [How to Use gRPC in Elixir](https://akoutmos.com/post/elixir-grpc/) - Learn how to create and use an Elixir gRPC server
+- [Structured logging in Elixir using Loki](https://akoutmos.com/post/elixir-logging-loki/) - Learn how to set up and use Loki for logging alongside your Phoenix application
+- [Getting your Elixir application ready for CI/CD](https://akoutmos.com/post/elixir-cicd/) - Explore a wide array of Elixir ecosystem tools that can help you create top-notch CI pipelines
+- [Easy and Robust Rate Limiting in Elixir](https://akoutmos.com/post/rate-limiting-with-genservers/) - Learn how to write rate limiters using Erlang queues, GenServers and Task.Supervisor
 
 More articles & tutorials at [akoutmos.com](https://akoutmos.com)
