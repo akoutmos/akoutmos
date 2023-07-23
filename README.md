@@ -6,7 +6,7 @@ Follow me on Twitter for announcements and code tips.<br>
 [![Twitter Follow](https://img.shields.io/twitter/follow/akoutmos?style=for-the-badge&logo=twitter&color=555555)](https://twitter.com/akoutmos)
 
 Enjoy using my open source libraries and reading my blog posts? Make sure you sponsor me on GitHub to ensure the projects keep coming!<br>
-[![Twitter Follow](https://img.shields.io/badge/Support%20the%20project-%E2%9D%A4-lightblue?style=for-the-badge)]([https://twitter.com/akoutmos](https://github.com/sponsors/akoutmos))
+[![Sponsor me](https://img.shields.io/badge/Sponsor%20me%20on%20GitHub-%E2%9D%A4-lightblue?style=for-the-badge)](https://github.com/sponsors/akoutmos)
 
 Subscribe to my Blog for updates on new tutorial releases.<br>
 https://akoutmos.com/
