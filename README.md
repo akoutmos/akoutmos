@@ -30,6 +30,9 @@ https://akoutmos.com/
 - [Doctor](https://github.com/akoutmos/doctor) - Make sure your project documentation is healthy<br>
   [![Hex.pm](https://img.shields.io/hexpm/v/doctor.svg?style=for-the-badge)](https://hex.pm/packages/doctor)
   [![Build Status](https://img.shields.io/github/actions/workflow/status/akoutmos/doctor/master.yml?label=Build%20Status&style=for-the-badge&branch=master)](https://github.com/akoutmos/doctor/actions)
+- [OctoFetch](https://github.com/akoutmos/octo_fetch) - Download, verify, and extract GitHub release artifacts<br>
+  [![Hex.pm](https://img.shields.io/hexpm/v/octo_fetch.svg?style=for-the-badge)](https://hex.pm/packages/octo_fetch)
+  [![Build Status](https://img.shields.io/github/actions/workflow/status/akoutmos/octo_fetch/main.yml?label=Build%20Status&style=for-the-badge&branch=master)](https://github.com/akoutmos/octo_fetch/actions)
 
 </td><td valign="top">
 
