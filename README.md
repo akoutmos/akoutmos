@@ -36,7 +36,7 @@ https://akoutmos.com/
 
 </td><td valign="top">
 
-- [Unplug](https://github.com/akoutmos/ecto_dbg) - A utility to format and output Ecto queries<br>
+- [EctoDbg](https://github.com/akoutmos/ecto_dbg) - A utility to format and output Ecto queries<br>
   [![Hex.pm](https://img.shields.io/hexpm/v/ecto_dbg.svg?style=for-the-badge)](https://hex.pm/packages/ecto_dbg)
   [![Build Status](https://img.shields.io/github/actions/workflow/status/akoutmos/ecto_dbg/main.yml?label=Build%20Status&style=for-the-badge&branch=master)](https://github.com/akoutmos/ecto_dbg/actions)
 - [Unplug](https://github.com/akoutmos/unplug) - Conditionally execute your Elixir Plugs at run-time<br>
