@@ -47,7 +47,7 @@ https://akoutmos.com/
 
 | Elixir Patterns | Build a Weather Station with Elixir and Nerves |
 |     :---:    |     :---:      |
-| <a target="_blank" href="https://elixirpatterns.dev/"><img width="400px" src="https://akoutmos.com/img/book_covers/elixir_patterns.png"></a> | <a href="https://pragprog.com/titles/passweather/build-a-weather-station-with-elixir-and-nerves/"><img width="400px" src="https://akoutmos.com/img/book_covers/nerves_weather_station.jpeg"></a> |
+| <a href="https://elixirpatterns.dev/"><img width="400px" src="https://akoutmos.com/img/book_covers/elixir_patterns.png"></a> | <a href="https://pragprog.com/titles/passweather/build-a-weather-station-with-elixir-and-nerves/"><img width="400px" src="https://akoutmos.com/img/book_covers/nerves_weather_station.jpeg"></a> |
 
 ### Recent Blog Posts 📖📓
 
