@@ -57,7 +57,7 @@ https://akoutmos.com/
 |     :---:    |     :---:      |
 | <a href="https://elixirpatterns.dev/"><img width="400px" src="https://akoutmos.com/img/book_covers/elixir_patterns.png"></a> | <a href="https://pragprog.com/titles/passweather/build-a-weather-station-with-elixir-and-nerves/"><img width="400px" src="https://akoutmos.com/img/book_covers/nerves_weather_station.jpeg"></a> 
 | Programming Nerves | Financial Analytics Using Elixir |
-| <a href="https://www.programmingnerves.dev/"><img width="400px" src="https://www.programmingnerves.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcover.7726bbfc.png&w=2048&q=75"></a> | Coming soon!
+| <a href="https://www.programmingnerves.dev/"><img width="400px" src="https://www.programmingnerves.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcover.7726bbfc.png&w=2048&q=75"></a> | <a href="https://www.financialelixir.dev/"><img width="400px" src="https://www.financialelixir.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcover.8c040087.png&w=1080&q=75"></a> 
 
 ### Recent Blog Posts 📓
 
